@@ -1,0 +1,6 @@
+com\AppBackend\Users\Service\UserService.class
+com\AppBackend\Users\Exceptions\RecordNotFoundException.class
+com\AppBackend\Users\Repository\UserRepository.class
+com\AppBackend\Users\UsersApplication.class
+com\AppBackend\Users\Model\User.class
+com\AppBackend\Users\Controller\UserController.class
